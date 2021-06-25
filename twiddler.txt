@@ -1,0 +1,26 @@
+version 0
+keyRepeat 1
+directKey 0
+joystickLeftClick 1
+disableBluetooth 0
+stickyNum 0
+stickyShift 0
+hapticFeedback 0
+sleepTimeout 1500
+mouseLeftClickAction 0
+mouseMiddleClickAction 0
+mouseRightClickAction 0
+mouseAccelFactor 10
+keyRepeatDelay 100
+     LOOO a1000b
+     MOOO a2000b
+     ROOO a4000b
+     OLOO a0100b
+     OMOO a0200b
+     OROO a0400b
+     OOLO a0010b
+     OOMO a0020b
+     OORO a0040b
+     OOOL a0001b
+     OOOM a0002b
+     OOOR a0004b
